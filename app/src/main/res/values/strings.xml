@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrashReportVer3</string>
+    <string name="tracking_enabled_notif">Driving mode!! Tap to open app.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
